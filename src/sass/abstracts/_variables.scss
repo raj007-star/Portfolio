@@ -1,15 +1,20 @@
 // COLORS
-$primary-color: #02aab0;
-$secondary-color: #00cdac;
 
-$white-color: #fff;
+$primary-color: #121212;           // Background base for sections
+$secondary-color: #bb86fc;         // Accent color (buttons, highlights)
 
-$dark-grey: #333333;
-$light-grey: #d2d2d2;
+$white-color: #e0e0e0;             // Light text on dark backgrounds
+$light-grey: #2a2a2a;              // For borders or subtle backgrounds
+$dark-grey: #1a1a1a;               // Base dark shade
+$dark-blue-text: #e0e0e0;          // Main heading text color
 
-$dark-blue-text: #272341; // For Headings
+$highlight-color: #2c2c2c;         // Background highlight
+$text-color: #f4f4f4;              // General body text
 
-// FONT SIZE
+$shadow-dark: rgba(0, 0, 0, 0.7);  // Shadow for depth
+
+// FONT SIZES
+
 $default-font-size: 1.6rem;
 $big-font-size: 4rem;
 $mid-font-size: 2.5rem;
