@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://raj007-star.github.io/simplePortfolio/)**
+To view the demo: **[click here](https://raj007-star.github.io/Portfolio/)**
 
 ---
 
