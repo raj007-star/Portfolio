@@ -1,4 +1,4 @@
-# Portfolio ⚡️ [![GitHub License](https://img.shields.io/github/license/raj007-star/simplePortfolio?color=blue)](https://github.com/raj007-star/simplePortfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/raj007-star/simplePortfolio) ![GitHub forks](https://img.shields.io/github/forks/raj007-star/simplePortfolio)
+# Portfolio ⚡️ [![GitHub License](https://img.shields.io/github/license/raj007-star/Portfolio?color=blue)](https://github.com/raj007-star/Portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/raj007-star/Portfolio) ![GitHub forks](https://img.shields.io/github/forks/raj007-star/Portfolio)
 
 
 ## A minimal portfolio template for Developers!
