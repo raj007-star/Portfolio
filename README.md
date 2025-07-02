@@ -1,9 +1,9 @@
-# Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/raj007-star/Portfolio?color=blue)](https://github.com/raj007-star/Portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/raj007-star/Portfolio) ![GitHub forks](https://img.shields.io/github/forks/raj007-star/Portfolio)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Portfolio" width="600px" />
+  <img src="https://github.com/raj007-star/gatsby-Portfolio/blob/master/examples/example.gif" alt="Portfolio" width="600px" />
   <br>
 </h2>
 
@@ -51,14 +51,14 @@ yarn@v1.22.10 or higher
 
 ## How To Use 🔧
 
-From your command line, first clone Simplefolio:
+From your command line, first clone Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobiwave/Portfolio
+$ git clone https://github.com/raj007-star/Portfolio
 
 # Move into the repository
-$ cd simplefolio
+$ cd Portfolio
 
 # Remove the current origin repository
 $ git remote remove origin
@@ -98,11 +98,9 @@ If your run into issues installing the dependencies with NPM, use this below com
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
+Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. 
 
-<h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
-</h2>
+
 
 ---
 
@@ -332,8 +330,8 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Others versions 👥
 
-[Gatsby Simplefolio](https://github.com/cobiwave/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobiwave)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
+[Gatsby Portfolio](https://github.com/raj007-star/gatsby-Portfolio) by [Jacobo Martinez](https://github.com/raj007-star)\
+[Ember.js Portfolio](https://github.com/sernadesigns/Portfolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
@@ -345,11 +343,11 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
+- **Jacobo Martinez** - [https://github.com/raj007-star](https://github.com/raj007-star)
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-Portfolio/deploys)
 
 ## License 📄
 
