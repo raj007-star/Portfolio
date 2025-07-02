@@ -1,24 +1,24 @@
 {
-  "name": "simplePortfolio",
+  "name": "Portfolio",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build --dist-dir docs --public-url /simplePortfolio/"
+    "build": "parcel build --dist-dir docs --public-url /Portfolio/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raj007-star/simplePortfolio.git"
+    "url": "https://github.com/raj007-star/Portfolio.git"
   },
   "keywords": [],
   "author": "raj007-star",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raj007-star/simplePortfolio.git"
+    "url": "https://github.com/raj007-star/Portfolio.git"
   },
-  "homepage": "https://github.com/raj007-star/simplePortfolio.git",
+  "homepage": "https://github.com/raj007-star/Portfolio.git",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",

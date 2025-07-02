@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 # Portfolio ⚡️ [![GitHub License](https://img.shields.io/github/license/raj007-star/Portfolio?color=blue)](https://github.com/raj007-star/Portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/raj007-star/Portfolio) ![GitHub forks](https://img.shields.io/github/forks/raj007-star/Portfolio)
-
 
 ## A minimal portfolio template for Developers!
 
